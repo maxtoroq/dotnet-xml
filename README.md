@@ -70,7 +70,7 @@ Product | FOSS
 
 Product | FOSS
 ------- | ----
-[XMLUnit] | :heavy_check_mark:
+[XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
