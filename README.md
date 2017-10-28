@@ -14,24 +14,24 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 
 Product | XPath | XQuery | XSLT | FOSS
 ------- | ----- | ------ | ---- | ----
-[Exselt][Exselt]<br><sub>XSLT 3.0 processor | 3.0 | :x: | 3.0 | :x:
+[Exselt]<br><sub>XSLT 3.0 processor | 3.0 | :x: | 3.0 | :x:
 [Lightweight XPath2 for .NET][Lightweight-XPath2]<br><sub>based on standard XPathNavigator API | 2.0 | :x: | :x: | :heavy_check_mark:
-[QueryMachine][QueryMachine]<br><sub>Standalone XQuery and SQL Implementation in .NET | 2.0 | 1.0 | :x: | :heavy_check_mark:
-[Saxon][Saxon]<br><sub>XSLT and XQuery Processor | 3.1 | 3.1 | 3.0 | :heavy_check_mark:
-[System.Xml][System.Xml]<br><sub>Standards-based support for processing XML | 1.0 | :x: | 1.0 | :heavy_check_mark:
-[XmlPrime][XmlPrime]<br><sub>XML Processing for the .NET Framework | 3.1 | 3.1 | 2.0 | :x:
-[XPath2.Net][XPath2.Net]<br><sub>Fork of *Lightweight XPath2 for .NET* | 2.0 | :x: | :x: | :heavy_check_mark:
+[QueryMachine]<br><sub>Standalone XQuery and SQL Implementation in .NET | 2.0 | 1.0 | :x: | :heavy_check_mark:
+[Saxon]<br><sub>XSLT and XQuery Processor | 3.1 | 3.1 | 3.0 | :heavy_check_mark:
+[System.Xml]<br><sub>Standards-based support for processing XML | 1.0 | :x: | 1.0 | :heavy_check_mark:
+[XmlPrime]<br><sub>XML Processing for the .NET Framework | 3.1 | 3.1 | 2.0 | :x:
+[XPath2.Net]<br><sub>Fork of *Lightweight XPath2 for .NET* | 2.0 | :x: | :x: | :heavy_check_mark:
 
 ## Validators
 
 Product | Implements | FOSS
 ------- | ---------- | ----
-[Commons.Xml.Relaxng][Commons.Xml.Relaxng]<br><sub>Validates XML with RELAX NG grammar | Relax NG 1.0 | :heavy_check_mark:
+[Commons.Xml.Relaxng]<br><sub>Validates XML with RELAX NG grammar | Relax NG 1.0 | :heavy_check_mark:
 [Saxon][Saxonica]<br><sub>Saxon can be used as a free-standing schema processor | XSD 1.1 | :x:
-[SchemaTron][SchemaTron]<br><sub>Native C#/.NET implementation of ISO schematron | ISO Schematron | :heavy_check_mark:
-[Schematron.NET][Schematron.NET]<br><sub>A Schematron ISO/IEC standard processor for .NET, written in C# | ISO Schematron | :heavy_check_mark:
-[System.Xml][System.Xml] | XSD 1.0 | :heavy_check_mark:
-[Tenuto][Tenuto]<br><sub>Relax NG validator for .NET. Implemented in C# | Relax NG 1.0 | :heavy_check_mark:
+[SchemaTron]<br><sub>Native C#/.NET implementation of ISO schematron | ISO Schematron | :heavy_check_mark:
+[Schematron.NET]<br><sub>A Schematron ISO/IEC standard processor for .NET, written in C# | ISO Schematron | :heavy_check_mark:
+[System.Xml] | XSD 1.0 | :heavy_check_mark:
+[Tenuto]<br><sub>Relax NG validator for .NET. Implemented in C# | Relax NG 1.0 | :heavy_check_mark:
 
 ## Document Representations
 
@@ -47,23 +47,23 @@ Product | Editable | Schema-aware | FOSS
 
 Product | XML Base | XInclude | FOSS
 ------- | -------- | -------- | ----
-[Apache Xerces (included in Saxon)][Saxon] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[Microsoft.Language.Xml] | :x: | :x: | :heavy_check_mark:
-[Mvp.Xml][Mvp.Xml] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[SgmlReader][SgmlReader] | | | :heavy_check_mark:
+[Apache Xerces][Saxon]<br><sub>Included in *Saxon*, cross-compiled from Java | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Microsoft.Language.Xml]<br><sub>A Roslyn-inspired full-fidelity XML parser with no dependencies and a simple Visual Studio XML language service | :x: | :x: | :heavy_check_mark:
+[Mvp.Xml] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[SgmlReader] | | | :heavy_check_mark:
 [SGMLReader (MindTouch)][SGMLReader-MindTouch] | | | :heavy_check_mark:
-[System.Xml][System.Xml] | :x: | :x: | :heavy_check_mark:
+[System.Xml] | :x: | :x: | :heavy_check_mark:
 
 ## Object Serialization
 
 Product | FOSS
 ------- | ----
-[ExtendedXmlSerializer][ExtendedXmlSerializer] | :heavy_check_mark:
-[SharpSerializer][SharpSerializer] | :heavy_check_mark:
-[System.Runtime.Serialization][System.Runtime.Serialization] | :heavy_check_mark:
-[System.Xml.Serialization][System.Xml.Serialization] | :heavy_check_mark:
-[XSerializer][XSerializer] | :heavy_check_mark:
-[YAXLib][YAXLib] | :heavy_check_mark:
+[ExtendedXmlSerializer] | :heavy_check_mark:
+[SharpSerializer] | :heavy_check_mark:
+[System.Runtime.Serialization] | :heavy_check_mark:
+[System.Xml.Serialization] | :heavy_check_mark:
+[XSerializer] | :heavy_check_mark:
+[YAXLib] | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
