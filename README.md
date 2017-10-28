@@ -63,7 +63,7 @@ Product | FOSS
 [System.Runtime.Serialization]<br><sub>Data contract based XML serialization | :heavy_check_mark:
 [System.Xml.Serialization]<br><sub>XML Serializer | :heavy_check_mark:
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
-[YAXLib] | :heavy_check_mark:
+[YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
