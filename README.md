@@ -51,7 +51,7 @@ Product | XML Base | XInclude | FOSS
 [Microsoft.Language.Xml]<br><sub>A Roslyn-inspired full-fidelity XML parser with no dependencies and a simple Visual Studio XML language service | :x: | :x: | :heavy_check_mark:
 [Mvp.Xml]<br><sub>Supplements .NET framework XML processing functionality | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [SgmlReader]<br><sub>Parses SGML files using the XmlReader API | | | :heavy_check_mark:
-[SGMLReader][SGMLReader-MindTouch]<br><sub>MindTouch fork of *SgmlReader* with many improvements | | | :heavy_check_mark:
+[SGMLReader (MindTouch)][SGMLReader-MindTouch]<br><sub>Fork of *SgmlReader* with many improvements | | | :heavy_check_mark:
 [System.Xml] | :x: | :x: | :heavy_check_mark:
 
 ## Object Serialization
