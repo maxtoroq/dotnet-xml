@@ -78,6 +78,8 @@ Product | FOSS
 Product | FOSS
 ------- | ----
 [ClosedXML]<br><sub>ClosedXML makes it easier for developers to create Excel 2007+ (.xlsx, .xlsm, etc) files | :heavy_check_mark:
+[Open XML SDK]<br><sub>Libraries for working with Open XML Documents (DOCX, XLSX, and PPTX) | :heavy_check_mark:
+
 
 [ClosedXML]: https://github.com/ClosedXML/ClosedXML
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
@@ -86,6 +88,7 @@ Product | FOSS
 [Lightweight-XPath2]: https://xpath2.codeplex.com/
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
+[Open XML SDK]: https://github.com/OfficeDev/Open-XML-SDK
 [QueryMachine]: https://qm.codeplex.com/
 [Saxon]: http://saxon.sourceforge.net/
 [Saxonica]: http://www.saxonica.com/
