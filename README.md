@@ -58,8 +58,8 @@ Product | XML Base | XInclude | FOSS
 
 Product | FOSS
 ------- | ----
-[ExtendedXmlSerializer] | :heavy_check_mark:
-[SharpSerializer] | :heavy_check_mark:
+[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | :heavy_check_mark:
+[SharpSerializer]<br><sub>XML and binary serializer for .NET | :heavy_check_mark:
 [System.Runtime.Serialization] | :heavy_check_mark:
 [System.Xml.Serialization] | :heavy_check_mark:
 [XSerializer] | :heavy_check_mark:
