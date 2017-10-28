@@ -8,7 +8,8 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Validators](#validators)
 - [Document Representations](#document-representations)
 - [Parsers](#parsers)
-- [Object Serialization](#object-serialization)
+- [Object Serializers](#object-serializers)
+- [Comparers](#comparers)
 
 ## XPath, XQuery and XSLT
 
@@ -54,7 +55,7 @@ Product | XML Base | XInclude | FOSS
 [SGMLReader (MindTouch)][SGMLReader-MindTouch]<br><sub>Fork of *SgmlReader* with many improvements | | | :heavy_check_mark:
 [System.Xml] | :x: | :x: | :heavy_check_mark:
 
-## Object Serialization
+## Object Serializers
 
 Product | FOSS
 ------- | ----
@@ -64,6 +65,12 @@ Product | FOSS
 [System.Xml.Serialization]<br><sub>XML Serializer | :heavy_check_mark:
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
 [YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | :heavy_check_mark:
+
+## Comparers
+
+Product | FOSS
+------- | ----
+[XMLUnit] | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
@@ -87,6 +94,7 @@ Product | FOSS
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
 [XmlPrime]: http://www.xmlprime.com/
+[XMLUnit]: http://www.xmlunit.org/
 [XPath2.Net]: https://github.com/StefH/XPath2.Net
 [XSerializer]: https://github.com/QuickenLoans/XSerializer
 [YAXLib]: http://sinairv.github.io/yaxlib/
