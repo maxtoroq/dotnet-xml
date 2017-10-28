@@ -60,9 +60,9 @@ Product | FOSS
 ------- | ----
 [ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | :heavy_check_mark:
 [SharpSerializer]<br><sub>XML and binary serializer for .NET | :heavy_check_mark:
-[System.Runtime.Serialization] | :heavy_check_mark:
-[System.Xml.Serialization] | :heavy_check_mark:
-[XSerializer] | :heavy_check_mark:
+[System.Runtime.Serialization]<br><sub>Data contract based XML serialization | :heavy_check_mark:
+[System.Xml.Serialization]<br><sub>XML Serializer | :heavy_check_mark:
+[XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
 [YAXLib] | :heavy_check_mark:
 
 
