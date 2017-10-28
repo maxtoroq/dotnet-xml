@@ -10,7 +10,6 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Parsers](#parsers)
 - [Object Serializers](#object-serializers)
 - [Comparers](#comparers)
-- [Specific Formats](#specific-formats)
 
 ## XPath, XQuery and XSLT
 
@@ -73,22 +72,13 @@ Product | FOSS
 ------- | ----
 [XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | :heavy_check_mark:
 
-## Specific Formats
 
-Product | FOSS
-------- | ----
-[ClosedXML]<br><sub>ClosedXML makes it easier for developers to create Excel 2007+ (.xlsx, .xlsm, etc) files | :heavy_check_mark:
-[Open XML SDK]<br><sub>Libraries for working with Open XML Documents (DOCX, XLSX, and PPTX) | :heavy_check_mark:
-
-
-[ClosedXML]: https://github.com/ClosedXML/ClosedXML
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
 [Exselt]: http://exselt.net/
 [ExtendedXmlSerializer]: https://extendedxmlserializer.github.io/
 [Lightweight-XPath2]: https://xpath2.codeplex.com/
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
-[Open XML SDK]: https://github.com/OfficeDev/Open-XML-SDK
 [QueryMachine]: https://qm.codeplex.com/
 [Saxon]: http://saxon.sourceforge.net/
 [Saxonica]: http://www.saxonica.com/
