@@ -50,8 +50,8 @@ Product | XML Base | XInclude | FOSS
 [Apache Xerces][Saxon]<br><sub>Included in *Saxon*, cross-compiled from Java | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [Microsoft.Language.Xml]<br><sub>A Roslyn-inspired full-fidelity XML parser with no dependencies and a simple Visual Studio XML language service | :x: | :x: | :heavy_check_mark:
 [Mvp.Xml]<br><sub>Supplements .NET framework XML processing functionality | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[SgmlReader] | | | :heavy_check_mark:
-[SGMLReader (MindTouch)][SGMLReader-MindTouch] | | | :heavy_check_mark:
+[SgmlReader]<br><sub>Parses SGML files using the XmlReader API | | | :heavy_check_mark:
+[SGMLReader][SGMLReader-MindTouch]<br>sub>Fork of *SgmlReader* with many improvements | | | :heavy_check_mark:
 [System.Xml] | :x: | :x: | :heavy_check_mark:
 
 ## Object Serialization
@@ -78,7 +78,7 @@ Product | FOSS
 [SchemaTron]: https://github.com/gap777/SchemaTron
 [Schematron.NET]: https://github.com/kzu/Schematron
 [SgmlReader]: https://github.com/lovettchris/SgmlReader
-[SGMLReader-MindTouch]: https://github.com/MindTouch/
+[SGMLReader-MindTouch]: https://github.com/MindTouch/SGMLReader
 [SharpSerializer]: https://github.com/polenter/SharpSerializer
 [System.Runtime.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization
 [System.Xml]: https://docs.microsoft.com/en-us/dotnet/api/system.xml
