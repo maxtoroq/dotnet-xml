@@ -9,6 +9,7 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Document Representations](#document-representations)
 - [Parsers](#parsers)
 - [Object Serializers](#object-serializers)
+- [Template Engines](#template-engines)
 - [Comparers](#comparers)
 
 ## XPath, XQuery and XSLT
@@ -66,6 +67,13 @@ Product | FOSS
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
 [YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | :heavy_check_mark:
 
+## Template Engines
+
+Product | FOSS
+------- | ----
+[SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
+[XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>language for transforming objects into XML documents. It is based on a subset of XSLT] | :heavy_check_mark:
+
 ## Comparers
 
 Product | FOSS
@@ -87,12 +95,14 @@ Product | FOSS
 [SgmlReader]: https://github.com/lovettchris/SgmlReader
 [SGMLReader-MindTouch]: https://github.com/MindTouch/SGMLReader
 [SharpSerializer]: https://github.com/polenter/SharpSerializer
+[SharpTAL]: https://github.com/lck/SharpTAL
 [System.Runtime.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization
 [System.Xml]: https://docs.microsoft.com/en-us/dotnet/api/system.xml
 [System.Xml.Linq]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.linq
 [System.Xml.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
+[XCST]: http://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
 [XPath2.Net]: https://github.com/StefH/XPath2.Net
