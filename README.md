@@ -72,7 +72,7 @@ Product | FOSS
 Product | FOSS
 ------- | ----
 [SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
-[XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>language for transforming objects into XML documents. It is based on a subset of XSLT] | :heavy_check_mark:
+[XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
 
 ## Comparers
 
