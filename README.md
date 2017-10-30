@@ -61,15 +61,15 @@ Product | XML Base | XInclude | FOSS
 > XML data binding refers to a means of representing information in an XML document as a business object in computer memory. This allows applications to access the data in the XML from the object rather than using the DOM or SAX to retrieve the data from a direct representation of the XML itself.
 > -- [Wikipedia](https://en.wikipedia.org/wiki/XML_data_binding)
 
-Product | FOSS
-------- | ----
-[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | :heavy_check_mark:
-[LINQ to XSD]<br><sub>The LINQ to XSD technology provides .NET developers with support for typed XML programming | :heavy_check_mark:
+Product | Design-time | Run-time | FOSS
+------- | ----------- | -------- | ----
+[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | | | :heavy_check_mark:
+[LINQ to XSD]<br><sub>The LINQ to XSD technology provides .NET developers with support for typed XML programming | :heavy_check_mark: | | :heavy_check_mark:
 [SharpSerializer]<br><sub>XML and binary serializer for .NET | :heavy_check_mark:
-[System.Runtime.Serialization]<br><sub>Data contract based XML serialization | :heavy_check_mark:
-[System.Xml.Serialization]<br><sub>XML Serializer | :heavy_check_mark:
+[System.Runtime.Serialization]<br><sub>Data contract based XML serialization | | :heavy_check_mark: | :heavy_check_mark:
+[System.Xml.Serialization]<br><sub>XML Serializer | | :heavy_check_mark: | :heavy_check_mark:
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
-[YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | :heavy_check_mark:
+[YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | | :heavy_check_mark: | :heavy_check_mark:
 
 ## Template Engines
 
