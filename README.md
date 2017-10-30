@@ -63,7 +63,7 @@ Product | XML Base | XInclude | FOSS
 
 Product | Design-time | Run-time | FOSS
 ------- | ----------- | -------- | ----
-[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | | | :heavy_check_mark:
+[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | | :heavy_check_mark: | :heavy_check_mark:
 [LINQ to XSD]<br><sub>The LINQ to XSD technology provides .NET developers with support for typed XML programming | :heavy_check_mark: | | :heavy_check_mark:
 [SharpSerializer]<br><sub>XML and binary serializer for .NET | | :heavy_check_mark: | :heavy_check_mark:
 [System.Runtime.Serialization]<br><sub>Data contract based XML serialization | | :heavy_check_mark: | :heavy_check_mark:
