@@ -9,8 +9,8 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Document Representations](#document-representations)
 - [Parsers](#parsers)
 - [Object Serializers](#object-serializers)
-- [Template Engines](#template-engines)
 - [Data Binding](#data-binding)
+- [Template Engines](#template-engines)
 
 ## XPath, XQuery and XSLT
 
