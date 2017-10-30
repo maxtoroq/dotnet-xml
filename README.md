@@ -2,6 +2,8 @@
 
 Products are listed in alphabetical order. Data-binding tools are not considered, only products that embrace the XML language.
 
+Have a suggestion? Create an issue or pull request.
+
 ### Table of Contents
 
 - [XPath, XQuery and XSLT](#xpath-xquery-and-xslt)
