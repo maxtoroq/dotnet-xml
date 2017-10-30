@@ -8,8 +8,8 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Validators](#validators)
 - [Document Representations](#document-representations)
 - [Parsers](#parsers)
-- [Data Binding](#data-binding)
 - [Template Engines](#template-engines)
+- [Data Binding](#data-binding)
 
 ## XPath, XQuery and XSLT
 
@@ -56,6 +56,13 @@ Product | XML Base | XInclude | FOSS
 [SGMLReader (MindTouch)][SGMLReader-MindTouch]<br><sub>Fork of *SgmlReader* with many improvements | | | :heavy_check_mark:
 [System.Xml] | :x: | :x: | :heavy_check_mark:
 
+## Template Engines
+
+Product | FOSS
+------- | ----
+[SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
+[XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>Language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
+
 ## Data Binding
 
 > XML data binding refers to a means of representing information in an XML document as a business object in computer memory. This allows applications to access the data in the XML from the object rather than using the DOM or SAX to retrieve the data from a direct representation of the XML itself.
@@ -70,13 +77,6 @@ Product | Design-time | Run-time | FOSS
 [System.Xml.Serialization]<br><sub>XML Serializer | | :heavy_check_mark: | :heavy_check_mark:
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | | :heavy_check_mark: | :heavy_check_mark:
 [YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | | :heavy_check_mark: | :heavy_check_mark:
-
-## Template Engines
-
-Product | FOSS
-------- | ----
-[SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
-[XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>Language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
