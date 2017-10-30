@@ -10,6 +10,7 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Parsers](#parsers)
 - [Object Serializers](#object-serializers)
 - [Template Engines](#template-engines)
+- [Data Binding](#data-binding)
 
 ## XPath, XQuery and XSLT
 
@@ -67,6 +68,15 @@ Product | FOSS
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | :heavy_check_mark:
 [YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | :heavy_check_mark:
 
+## Data Binding
+
+> XML data binding refers to a means of representing information in an XML document as a business object in computer memory. This allows applications to access the data in the XML from the object rather than using the DOM or SAX to retrieve the data from a direct representation of the XML itself.
+> -- [Wikipedia](https://en.wikipedia.org/wiki/XML_data_binding)
+
+Product | FOSS
+------- | ----
+[LINQ to XSD]<br><sub>The LINQ to XSD technology provides .NET developers with support for typed XML programming | :heavy_check_mark:
+
 ## Template Engines
 
 Product | FOSS
@@ -79,6 +89,7 @@ Product | FOSS
 [Exselt]: http://exselt.net/
 [ExtendedXmlSerializer]: https://extendedxmlserializer.github.io/
 [Lightweight-XPath2]: https://xpath2.codeplex.com/
+[LINQ to XSD]: https://linqtoxsd.codeplex.com/
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
 [QueryMachine]: https://qm.codeplex.com/
