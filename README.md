@@ -75,6 +75,7 @@ Product | Design-time | Run-time | FOSS
 [SharpSerializer]<br><sub>XML and binary serializer for .NET | | :heavy_check_mark: | :heavy_check_mark:
 [System.Runtime.Serialization]<br><sub>Data contract based XML serialization | | :heavy_check_mark: | :heavy_check_mark:
 [System.Xml.Serialization]<br><sub>XML Serializer | | :heavy_check_mark: | :heavy_check_mark:
+[Typed DataSets]<br><sub>Generate a strongly typed DataSet using the XSD.exe tool | :heavy_check_mark: | | 
 [XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | | :heavy_check_mark: | :heavy_check_mark:
 [YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | | :heavy_check_mark: | :heavy_check_mark:
 
@@ -101,6 +102,7 @@ Product | Design-time | Run-time | FOSS
 [System.Xml.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
+[Typed DataSets]: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/dataset-datatable-dataview/generating-strongly-typed-datasets
 [XCST]: http://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
