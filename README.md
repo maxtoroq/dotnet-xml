@@ -34,7 +34,7 @@ Product | Implements | FOSS
 [Schematron.NET]<br><sub>A Schematron ISO/IEC standard processor for .NET, written in C# | ISO Schematron | :heavy_check_mark:
 [System.Xml] | XSD 1.0 | :heavy_check_mark:
 [Tenuto]<br><sub>Relax NG validator for .NET. Implemented in C# | Relax NG 1.0 | :heavy_check_mark:
-[XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | :heavy_check_mark:
+[XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | | :heavy_check_mark:
 
 ## Document Representations
 
