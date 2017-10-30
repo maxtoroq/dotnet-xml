@@ -1,6 +1,4 @@
-.NET &lt;XML>
-=============
-A list of XML libraries, frameworks and tools for .NET.
+# .NET &lt;XML><br><sub>A list of XML libraries, frameworks and tools for .NET.
 
 Products are listed in alphabetical order. Data-binding tools are not considered, only products that embrace the XML language.
 
