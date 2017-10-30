@@ -10,7 +10,6 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Parsers](#parsers)
 - [Object Serializers](#object-serializers)
 - [Template Engines](#template-engines)
-- [Comparers](#comparers)
 
 ## XPath, XQuery and XSLT
 
@@ -34,6 +33,7 @@ Product | Implements | FOSS
 [Schematron.NET]<br><sub>A Schematron ISO/IEC standard processor for .NET, written in C# | ISO Schematron | :heavy_check_mark:
 [System.Xml] | XSD 1.0 | :heavy_check_mark:
 [Tenuto]<br><sub>Relax NG validator for .NET. Implemented in C# | Relax NG 1.0 | :heavy_check_mark:
+[XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | :heavy_check_mark:
 
 ## Document Representations
 
@@ -73,12 +73,6 @@ Product | FOSS
 ------- | ----
 [SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
 [XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>Language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
-
-## Comparers
-
-Product | FOSS
-------- | ----
-[XMLUnit]<br><sub>Tools to verify the XML you emit is the one you want to create | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
