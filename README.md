@@ -1,6 +1,8 @@
 .NET &lt;XML>
 =============
-A list of XML libraries, frameworks and tools for .NET. Products are listed in alphabetical order.
+A list of XML libraries, frameworks and tools for .NET.
+
+Products are listed in alphabetical order. Data-binding tools are not considered, only products that embrace the XML language.
 
 ### Table of Contents
 
@@ -9,7 +11,6 @@ A list of XML libraries, frameworks and tools for .NET. Products are listed in a
 - [Document Representations](#document-representations)
 - [Parsers](#parsers)
 - [Template Engines](#template-engines)
-- [Data Binding](#data-binding)
 
 ## XPath, XQuery and XSLT
 
@@ -63,28 +64,10 @@ Product | FOSS
 [SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
 [XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>Language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
 
-## Data Binding
-
-> XML data binding refers to a means of representing information in an XML document as a business object in computer memory. This allows applications to access the data in the XML from the object rather than using the DOM or SAX to retrieve the data from a direct representation of the XML itself.
-> -- [Wikipedia](https://en.wikipedia.org/wiki/XML_data_binding)
-
-Product | Design-time | Run-time | FOSS
-------- | ----------- | -------- | ----
-[ExtendedXmlSerializer]<br><sub>Extended Xml Serializer for .NET | | :heavy_check_mark: | :heavy_check_mark:
-[LINQ to XSD]<br><sub>The LINQ to XSD technology provides .NET developers with support for typed XML programming | :heavy_check_mark: | | :heavy_check_mark:
-[SharpSerializer]<br><sub>XML and binary serializer for .NET | | :heavy_check_mark: | :heavy_check_mark:
-[System.Runtime.Serialization]<br><sub>Data contract based XML serialization | | :heavy_check_mark: | :heavy_check_mark:
-[System.Xml.Serialization]<br><sub>XML Serializer | | :heavy_check_mark: | :heavy_check_mark:
-[Typed DataSets]<br><sub>Generate a strongly typed DataSet using the XSD.exe tool | :heavy_check_mark: | | 
-[XSerializer]<br><sub>Provides advanced, high-performance XML and JSON serializers | | :heavy_check_mark: | :heavy_check_mark:
-[YAXLib]<br><sub>Flexible XML serialization library that lets developers design freely the XML file structure | | :heavy_check_mark: | :heavy_check_mark:
-
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
 [Exselt]: http://exselt.net/
-[ExtendedXmlSerializer]: https://extendedxmlserializer.github.io/
 [Lightweight-XPath2]: https://xpath2.codeplex.com/
-[LINQ to XSD]: https://linqtoxsd.codeplex.com/
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
 [QueryMachine]: https://qm.codeplex.com/
@@ -94,18 +77,12 @@ Product | Design-time | Run-time | FOSS
 [Schematron.NET]: https://github.com/kzu/Schematron
 [SgmlReader]: https://github.com/lovettchris/SgmlReader
 [SGMLReader-MindTouch]: https://github.com/MindTouch/SGMLReader
-[SharpSerializer]: https://github.com/polenter/SharpSerializer
 [SharpTAL]: https://github.com/lck/SharpTAL
-[System.Runtime.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.runtime.serialization
 [System.Xml]: https://docs.microsoft.com/en-us/dotnet/api/system.xml
 [System.Xml.Linq]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.linq
-[System.Xml.Serialization]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.serialization
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
-[Typed DataSets]: https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/dataset-datatable-dataview/generating-strongly-typed-datasets
 [XCST]: http://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
 [XPath2.Net]: https://github.com/StefH/XPath2.Net
-[XSerializer]: https://github.com/QuickenLoans/XSerializer
-[YAXLib]: http://sinairv.github.io/yaxlib/
