@@ -63,6 +63,7 @@ Product | FOSS
 ------- | ----
 [SharpTAL]<br><sub>Xml-based template engine for .NET platform | :heavy_check_mark:
 [XCST (eXtensible C-Sharp Templates)][XCST]<br><sub>Language for transforming objects into XML documents. It is based on a subset of XSLT | :heavy_check_mark:
+[XDT]<br><sub>Microsoft's Xml Document Transformation library | :heavy_check_mark:
 
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
@@ -82,6 +83,7 @@ Product | FOSS
 [System.Xml.Linq]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.linq
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
+[XDT]: https://xdt.codeplex.com/
 [XCST]: http://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
