@@ -19,7 +19,7 @@ Product | XPath | XQuery | XSLT | FOSS
 **[Exselt]**<br><sub>XSLT 3.0 processor | 3.0 | :x: | 3.0 | :x:
 **[Lightweight XPath2 for .NET][Lightweight-XPath2]**<br><sub>based on standard XPathNavigator API | 2.0 | :x: | :x: | :heavy_check_mark:
 **[QueryMachine]**<br><sub>Standalone XQuery and SQL Implementation in .NET | 2.0 | 1.0 | :x: | :heavy_check_mark:
-**[Saxon]**<br><sub>XSLT and XQuery Processor | 3.1 | 3.1 | 3.0 | :heavy_check_mark:
+**[Saxon]**<br><sub>XSLT and XQuery Processor. [NuGet][Saxon-NuGet] (unofficial) | 3.1 | 3.1 | 3.0 | :heavy_check_mark:
 **[System.Xml]** | 1.0 | :x: | 1.0 | :heavy_check_mark:
 **[XmlPrime]**<br><sub>XML Processing for the .NET Framework | 3.1 | 3.1 | 2.0 | :x:
 **[XPath2.Net]**<br><sub>Fork of *Lightweight XPath2 for .NET* | 2.0 | :x: | :x: | :heavy_check_mark:
@@ -73,6 +73,7 @@ Product | FOSS
 [Mvp.Xml]: https://mvpxml.codeplex.com/
 [QueryMachine]: https://qm.codeplex.com/
 [Saxon]: http://saxon.sourceforge.net/
+[Saxon-NuGet]: https://www.nuget.org/packages/Saxon-HE
 [Saxonica]: http://www.saxonica.com/
 [SchemaTron]: https://github.com/gap777/SchemaTron
 [Schematron.NET]: https://github.com/kzu/Schematron
