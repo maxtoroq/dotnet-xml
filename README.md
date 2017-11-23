@@ -53,7 +53,7 @@ Product | XML Base | XInclude | FOSS
 **[Apache Xerces][Saxon]**<br><sub>Included in *Saxon*, cross-compiled from Java | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 **[Microsoft.Language.Xml]**<br><sub>A Roslyn-inspired full-fidelity XML parser with no dependencies and a simple Visual Studio XML language service | :x: | :x: | :heavy_check_mark:
 **[Mvp.Xml]**<br><sub>Supplements .NET framework XML processing functionality | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-**[SgmlReader]**<br><sub>Parses SGML files using the XmlReader API. See also [MindTouch fork][SGMLReader-MindTouch]. | | | :heavy_check_mark:
+**[SgmlReader]**<br><sub>Parses SGML files using the XmlReader API. See also [MindTouch's fork][SGMLReader-MindTouch]. | | | :heavy_check_mark:
 **[System.Xml]** | :x: | :x: | :heavy_check_mark:
 
 ## Template Engines
