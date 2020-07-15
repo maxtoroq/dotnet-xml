@@ -42,8 +42,7 @@ Product | Editable | Schema-aware | FOSS
 [Saxon.Api.**XdmNode**][Saxon]<br><sub>XdmNode represents a Node in the XDM Data Model | :x: | :x: | :heavy_check_mark:
 [System.Xml.Linq.**XDocument**][System.Xml.Linq]<br><sub>Represents an XML document. Optimized for LINQ | :heavy_check_mark: | :x: | :heavy_check_mark:
 [System.Xml.**XmlDocument**][System.Xml]<br><sub>Implements the W3C XML Document Object Model (DOM) Level 1 Core and the Core DOM Level 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[System.Xml.XPath.**XPathDocument**][System.Xml.XPath]<br><sub>Provides a fast, read-only, in-memory representation of an XML document by using the XPath data model | :x: | :x: | :heavy_check_mark:
-[XmlPrime.**XdmDocument**][XmlPrime]<br><sub>Provides a fast, read-only, in-memory representation of an XML document using the XQuery 1.0 and XPath 2.0 Data Model (XDM) | :x: | :heavy_check_mark: | :x:
+[System.Xml.XPath.**XPathNavigator**][System.Xml.XPath]<br><sub>Provides a cursor model for navigating and editing XML data. | :x: | :x: | :heavy_check_mark:
 
 ## Parsers
 
@@ -83,7 +82,7 @@ Product | FOSS
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
 [XDT]: https://xdt.codeplex.com/
-[XCST]: http://maxtoroq.github.io/XCST/
+[XCST]: https://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
 [XPath2.Net]: https://github.com/StefH/XPath2.Net
