@@ -42,7 +42,7 @@ Product | Editable | Schema-aware | FOSS
 [Saxon.Api.**XdmNode**][Saxon]<br><sub>XdmNode represents a Node in the XDM Data Model | :x: | :x: | :heavy_check_mark:
 [System.Xml.Linq.**XDocument**][System.Xml.Linq]<br><sub>Represents an XML document. Optimized for LINQ | :heavy_check_mark: | :x: | :heavy_check_mark:
 [System.Xml.**XmlDocument**][System.Xml]<br><sub>Implements the W3C XML Document Object Model (DOM) Level 1 Core and the Core DOM Level 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[System.Xml.XPath.**XPathNavigator**][System.Xml.XPath]<br><sub>Provides a cursor model for navigating and editing XML data. | :x: | :x: | :heavy_check_mark:
+[System.Xml.XPath.**XPathNavigator**][System.Xml.XPath]<br><sub>Provides a cursor model for navigating and editing XML data. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 ## Parsers
 
