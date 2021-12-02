@@ -68,7 +68,7 @@ Product | FOSS
 [Lightweight-XPath2]: https://xpath2.codeplex.com/
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
-[QueryMachine]: https://qm.codeplex.com/
+[QueryMachine]: https://github.com/semyonc/qm
 [Saxon]: http://saxon.sourceforge.net/
 [Saxon-NuGet]: https://www.nuget.org/packages/Saxon-HE
 [Saxonica]: http://www.saxonica.com/
