@@ -65,7 +65,7 @@ Product | FOSS
 
 [Commons.Xml.Relaxng]: https://github.com/mono/mono/tree/master/mcs/class/Commons.Xml.Relaxng
 [Exselt]: http://exselt.net/
-[Lightweight-XPath2]: https://xpath2.codeplex.com/
+[Lightweight-XPath2]: https://github.com/semyonc/xpath2
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
 [QueryMachine]: https://github.com/semyonc/qm
