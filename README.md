@@ -50,7 +50,7 @@ Product | XML Base | XInclude | FOSS
 ------- | -------- | -------- | ----
 **[Apache Xerces][Saxon]**<br><sub>Included in *Saxon*, cross-compiled from Java | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 **[Microsoft.Language.Xml]**<br><sub>A Roslyn-inspired full-fidelity XML parser with no dependencies and a simple Visual Studio XML language service | :x: | :x: | :heavy_check_mark:
-**[Mvp.Xml]**<br><sub>Supplements .NET framework XML processing functionality | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+**[Mvp.Xml]**<br><sub>Supplements .NET framework XML processing functionality. See also [Mvp.Xml.NetStandard]. | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 **[SgmlReader]**<br><sub>Parses SGML files using the XmlReader API. See also [MindTouch's fork][SGMLReader-MindTouch]. | | | :heavy_check_mark:
 **[System.Xml]** | :x: | :x: | :heavy_check_mark:
 
@@ -68,6 +68,7 @@ Product | FOSS
 [Lightweight-XPath2]: https://github.com/semyonc/xpath2
 [Microsoft.Language.Xml]: https://github.com/KirillOsenkov/XmlParser
 [Mvp.Xml]: https://mvpxml.codeplex.com/
+[Mvp.Xml.NetStandard]: https://github.com/keimpema/Mvp.Xml.NetStandard
 [QueryMachine]: https://github.com/semyonc/qm
 [Saxon]: http://saxon.sourceforge.net/
 [Saxon-NuGet]: https://www.nuget.org/packages/Saxon-HE
