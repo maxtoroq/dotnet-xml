@@ -82,7 +82,7 @@ Product | FOSS
 [System.Xml.Linq]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.linq
 [System.Xml.XPath]: https://docs.microsoft.com/en-us/dotnet/api/system.xml.xpath
 [Tenuto]: https://github.com/java-schema-utilities/relaxng-tenuto
-[XDT]: https://xdt.codeplex.com/
+[XDT]: https://github.com/dotnet/xdt
 [XCST]: https://maxtoroq.github.io/XCST/
 [XmlPrime]: http://www.xmlprime.com/
 [XMLUnit]: http://www.xmlunit.org/
