@@ -16,7 +16,7 @@ Have a suggestion? Create an issue or pull request.
 
 Product | XPath | XQuery | XSLT | FOSS
 ------- | ----- | ------ | ---- | ----
-**[Exselt]**<br><sub>XSLT 3.0 processor | 3.0 | :x: | 3.0 | :x:
+~~Exselt~~ <sub>(Abandoned?)</sub><br><sub>XSLT 3.0 processor | 3.0 | :x: | 3.0 | :x:
 **[Lightweight XPath2 for .NET][Lightweight-XPath2]**<br><sub>based on standard XPathNavigator API. See also [StefH's fork][XPath2.Net]. | 2.0 | :x: | :x: | :heavy_check_mark:
 **[QueryMachine]**<br><sub>Standalone XQuery and SQL Implementation in .NET | 2.0 | 1.0 | :x: | :heavy_check_mark:
 **[Saxon]**<br><sub>XSLT and XQuery Processor. [NuGet][Saxon-NuGet] | 3.1 | 3.1 | 3.0 | :heavy_check_mark:
